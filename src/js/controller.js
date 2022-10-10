@@ -7,7 +7,7 @@ const timeout = function (s) {
     }, s * 1000);
   });
 };
-
+console.log('tuan test');
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
